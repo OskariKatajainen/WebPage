@@ -134,7 +134,7 @@ img.tausta2{
 
 
 .slider{
-	width: 50%;
+	max-width: 810px;
 	height: 410px;
 	background: url(1.png);
 	margin: auto;
