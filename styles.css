@@ -60,6 +60,11 @@ img.tausta{
 	width: 100%;
 	height: auto;
 }
+img.tausta2{
+	width: 70%;
+	height: auto;
+	padding: 1px 300px;
+}
 
 
 .keskitys{
